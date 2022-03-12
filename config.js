@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285741857464','6283127014833','6281365814200']
-global.pemilik = ['6283127014833']
-global.premium = ['6281365814200']
-global.pengguna = 'Nama Lu Isi'
-global.botnma = 'Lycho Bot'
-global.footer = 'KahfzXzy' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtube.com/c/KahfzXzy' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://github.com/K4HFZ' //Ubah Jga Bebas Sama lu 
-global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
+global.owner = ['6283808840711','6283808840711','6283808840711']
+global.pemilik = ['6283808830711']
+global.premium = ['6283808840711']
+global.pengguna = 'Kikii Cans'
+global.botnma = 'Kikii Botz'
+global.footer = 'ᴋɪᴋɪ ᴋᴀᴡᴀɪɪ🐼'//FooterText Biar Di Bawah Nya Ada Text 
+global.web = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ' // Ubah Sama Lu Web Nya Bebas 
+global.web2 = 'https://github.com/Kikii-Kawaiii' //Ubah Jga Bebas Sama lu 
+global.ganti = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ' //Edit Terserah Lu Mau Apa
 global.ganti2 = 'Github'
-global.ownernma = 'KahfzXzy'
-global.packname = 'Lycho Bot'
-global.author = 'WhatsApp Bot'
+global.ownernma = 'Kikii Cans'
+global.packname = 'ambil aja'
+global.author = 'di buat oleh kikii Cans🍓'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -38,7 +38,7 @@ global.mess = {
     success: '✓ Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Fitur Khusus Owner kontol',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
